@@ -331,8 +331,7 @@ section {
 
 footer {
   width:170px;
-  float:center;
-  position:fixed;
+  float:bottom;
 }
 
 @media print, screen and (max-width: 960px) {
