@@ -334,7 +334,7 @@ footer {
   float:right;
   position:fixed;
   bottom:10px;
-	padding-right: 450px;
+	padding-right: 50px;
 }
 
 @media print, screen and (max-width: 960px) {
