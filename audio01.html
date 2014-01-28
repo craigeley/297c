@@ -137,7 +137,7 @@
     function initAnnotator(json) {
       "use strict";
 
-      $('article').annotator().annotator('setupPlugins', null, {
+      $('section').annotator().annotator('setupPlugins', null, {
         Auth: {
           token: getAuthToken(demoConsumerKey, demoConsumerSecret, json.ip)
         },
