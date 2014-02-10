@@ -113,6 +113,10 @@ blockquote {
   font-style: italic;
 }
 
+.footnote {
+  font-size: .8em;
+  vertical-align: super; }
+
 dl, dt, dd, dl p {
 	font-color: #444;
 }
